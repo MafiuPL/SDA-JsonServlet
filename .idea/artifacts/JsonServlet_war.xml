@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JsonServlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sda-json.war">
+      <element id="artifact" artifact-name="JsonServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
